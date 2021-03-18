@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "permission_fix_user",
+    "password": "strongPW",
+    "database": "permission_fix_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
